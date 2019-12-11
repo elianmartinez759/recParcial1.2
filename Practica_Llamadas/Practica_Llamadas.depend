@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1576033548 source:c:\users\usuario\desktop\practica_llamadas\llamadas.c
+	"llamadas.h"
+	"personas.h"
+
+1576032426 source:c:\users\usuario\desktop\practica_llamadas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"personas.h"
+	"llamadas.h"
+
+1576027573 source:c:\users\usuario\desktop\practica_llamadas\personas.c
+	"personas.h"
+
+1576028082 c:\users\usuario\desktop\practica_llamadas\personas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1576028893 c:\users\usuario\desktop\practica_llamadas\llamadas.h
+	<stdio.h>
+	<stdlib.h>
+
