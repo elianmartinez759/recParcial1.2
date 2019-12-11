@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1576074230 source:c:\users\alumno\desktop\aerolinea\main.c
+	<stdio.h>
+	<stdlib.h>
+	"vuelo.h"
+
+1576067754 c:\users\alumno\desktop\aerolinea\vuelo.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"piloto.h"
+	"destino.h"
+	<ctype.h>
+
+1576066434 c:\users\alumno\desktop\aerolinea\piloto.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1576066434 c:\users\alumno\desktop\aerolinea\destino.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1576067077 source:c:\users\alumno\desktop\aerolinea\piloto.c
+	"piloto.h"
+
+1576069414 source:c:\users\alumno\desktop\aerolinea\destino.c
+	"destino.h"
+
+1576074406 source:c:\users\alumno\desktop\aerolinea\vuelo.c
+	"vuelo.h"
+
